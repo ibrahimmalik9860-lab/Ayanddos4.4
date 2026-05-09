@@ -1,2 +1,2 @@
 #!/bin/bash
-python aryan.py
+python3 aryan.py
