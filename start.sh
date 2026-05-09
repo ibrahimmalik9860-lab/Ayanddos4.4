@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 aryan.py
+python3 kingbot.py
